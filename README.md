@@ -6,7 +6,6 @@
   
   <p><b>Computer Engineering Undergraduate @ University of Ruhuna</b></p>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white&labelColor=0F0F1A)]([Your-Portfolio-URL])
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0F1A)](https://www.linkedin.com/in/ammaar-ismail-365133325/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0F1A)](mailto:ismailammaar937@gmail.com)
   [![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0F0F1A)](https://hub.docker.com/u/amr11937)
@@ -21,7 +20,7 @@
 
 - 🔭 Currently developing an **Automated Waste Classification System** (CNN/MobileNetV2) and an **AI-Powered Personal Financial Management System** (MERN Stack + Gemini AI).
 - 🌱 Actively deploying full-stack apps using **Docker, Jenkins, Terraform, and AWS** (check out my `Food_docker` project!).
-- 💼 Gearing up for a 6-month **AI & Data Science internship** starting in June 2026.
+- 💼 Gearing up for a 6-month internship starting in June 2026. I am actively seeking opportunities in **Software Engineering, AI/Data Science, DevOps, Cybersecurity, Networking, and Embedded Systems**.
 - 🎯 When I'm not coding, I'm likely solving **picoCTF** challenges, exploring network configs in Cisco Packet Tracer, or reading up on high-performance PC and motorcycle specs.
 
 <br>
@@ -119,13 +118,13 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px"> GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[Your-GitHub-Username]&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Amr11937&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[Your-GitHub-Username]&label=Profile%20Views&color=6A54F7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Amr11937&label=Profile%20Views&color=6A54F7&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
