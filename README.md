@@ -115,13 +115,7 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px"> GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amr11937&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Amr11937&label=Profile%20Views&color=6A54F7&style=for-the-badge" alt="Profile Views" />
