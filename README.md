@@ -7,8 +7,8 @@
   <p><b>Computer Engineering Undergraduate @ University of Ruhuna</b></p>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white&labelColor=0F0F1A)]([])
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0F1A)]([https://www.linkedin.com/in/ammaar-ismail-365133325/])
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0F1A)](mailto:[ismailammaar937@gmail.com])
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0F1A)](https://www.linkedin.com/in/ammaar-ismail-365133325/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0F1A)](mailto:ismailammaar937@gmail.com)
   [![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0F0F1A)](https://hub.docker.com/u/amr11937)
 
 </div>
