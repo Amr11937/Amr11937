@@ -6,7 +6,7 @@
   
   <p><b>Computer Engineering Undergraduate @ University of Ruhuna</b></p>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white&labelColor=0F0F1A)]([])
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white&labelColor=0F0F1A)]([Your-Portfolio-URL])
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0F1A)](https://www.linkedin.com/in/ammaar-ismail-365133325/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0F1A)](mailto:ismailammaar937@gmail.com)
   [![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0F0F1A)](https://hub.docker.com/u/amr11937)
@@ -19,10 +19,23 @@
 
 > I'm a 6th-semester Computer Engineering student bridging the gap between AI/Data Science, Software Development, and modern DevOps practices. From building deep learning models and participating in CTFs to configuring CI/CD pipelines on AWS, I enjoy tackling complex, multi-disciplinary technical challenges.
 
-- 🔭 Currently developing **Cash Flow** (a .NET/WPF personal finance app) and a **Job Search Application** (Flutter & Firebase).
+- 🔭 Currently developing an **Automated Waste Classification System** (CNN/MobileNetV2) and an **AI-Powered Personal Financial Management System** (MERN Stack + Gemini AI).
 - 🌱 Actively deploying full-stack apps using **Docker, Jenkins, Terraform, and AWS** (check out my `Food_docker` project!).
 - 💼 Gearing up for a 6-month **AI & Data Science internship** starting in June 2026.
 - 🎯 When I'm not coding, I'm likely solving **picoCTF** challenges, exploring network configs in Cisco Packet Tracer, or reading up on high-performance PC and motorcycle specs.
+
+<br>
+
+## 🚀 Featured Projects
+
+**♻️ Automated Waste Classification using CNN**
+* Engineered an automated image classification pipeline in Python to categorize waste into six distinct materials, supporting sustainable recycling initiatives.
+* Fine-tuned a pre-trained **MobileNetV2** Convolutional Neural Network using transfer learning and data augmentation to optimize inference speed and accuracy for edge devices.
+
+**💡 AI-Powered Personal Financial Management System**
+* Engineered a full-stack web application using **TypeScript, React, Node.js (Express), and MongoDB**, establishing robust communication through secure REST APIs.
+* Integrated **Google Gemini AI** to generate intelligent financial insights, personalized recommendations, and dynamic risk assessments for users.
+* Developed core financial tracking features, including an automated transaction categorization pipeline and a dynamic financial health scoring system.
 
 <br>
 
@@ -117,7 +130,7 @@
 
 <div align="center">
   <h3>📫 Connect With Me</h3>
-  <a href="mailto:[Your-Email-Address]">
+  <a href="mailto:ismailammaar937@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0F1A" alt="Email" />
   </a>
 </div>
