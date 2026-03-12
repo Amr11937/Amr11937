@@ -42,18 +42,18 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> My GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/[Your-GitHub-Username]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A54F7&icon_color=6A54F7&text_color=C9D1D9"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A54F7&text_color=C9D1D9"/>
+  <a href="https://github.com/Amr11937">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amr11937&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A54F7&icon_color=6A54F7&text_color=C9D1D9"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr11937&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A54F7&text_color=C9D1D9"/>
   </a>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=[Your-GitHub-Username]&theme=tokyonight&hide_border=true&background=0D1117&ring=6A54F7&fire=6A54F7&currStreakLabel=6A54F7"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amr11937&theme=tokyonight&hide_border=true&background=0D1117&ring=6A54F7&fire=6A54F7&currStreakLabel=6A54F7"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=[Your-GitHub-Username]&custom_title=Ammaar's%20Contribution%20Graph&bg_color=0D1117&color=6A54F7&line=6A54F7&point=6A54F7&area_color=FFFFFF&area=true&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amr11937&custom_title=Ammaar's%20Contribution%20Graph&bg_color=0D1117&color=6A54F7&line=6A54F7&point=6A54F7&area_color=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 <br>
