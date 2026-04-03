@@ -16,7 +16,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> About Me
 
-> I'm a 6th-semester Computer Engineering student bridging the gap between AI/Data Science, Software Development, and modern DevOps practices. From building deep learning models and participating in CTFs to configuring CI/CD pipelines on AWS, I enjoy tackling complex, multi-disciplinary technical challenges.
+> I'm a 6th-semester Computer Engineering student bridging the gap between AI/ML, Software Development, and modern DevOps practices. From building deep learning models and participating in CTFs to configuring CI/CD pipelines on AWS, I enjoy tackling complex, multi-disciplinary technical challenges.
 
 - 🔭 Currently developing an **Automated Waste Classification System** (CNN/MobileNetV2) and an **AI-Powered Personal Financial Management System** (MERN Stack + Gemini AI).
 - 🌱 Actively deploying full-stack apps using **Docker, Jenkins, Terraform, and AWS** (check out my `Food_docker` project!).
