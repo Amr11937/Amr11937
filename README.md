@@ -2,7 +2,7 @@
   
   # Hi there, I'm Ammaar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A54F7&center=true&vCenter=true&random=false&width=500&lines=Computer+Engineering+Student;AI+%26+Data+Science+Enthusiast;DevOps+%26+Cloud+Explorer;Software+Developer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A54F7&center=true&vCenter=true&random=false&width=500&lines=Computer+Engineering+Student;AI+%26+ML+Enthusiast;DevOps+%26+Cloud+Explorer;Software+Developer" alt="Typing SVG"/>
   
   <p><b>Computer Engineering Undergraduate @ University of Ruhuna</b></p>
   
